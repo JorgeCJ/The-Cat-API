@@ -7,7 +7,7 @@ Api consumption of TheCatAPI, api that contains the cutest kittens. See it on [V
 ## Technologies
 List of technologies used in the project:
 
-- [VueJs](https://v2.vuejs.org/v2/guide/)
+- [VueJs 2](https://v2.vuejs.org/v2/guide/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
